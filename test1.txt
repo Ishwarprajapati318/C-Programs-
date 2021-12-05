@@ -1,0 +1,3 @@
+Emp no:=1
+Emp name:=Ishwar
+Emp sal:=80000.000000
